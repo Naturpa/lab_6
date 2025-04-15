@@ -9,6 +9,7 @@ class BigBell:
             print("dong")
         self.is_ding = not self.is_ding
 
+
 # Пример использования
 bell = BigBell()
 bell.sound()  # Вывод: ding
